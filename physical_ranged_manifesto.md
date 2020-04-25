@@ -63,6 +63,7 @@ A common belief among the Final Fantasy Raid community is that Physical Ranged i
   - Troubador / Tactiction / Shield Samba: 20y radius, 10% incomming dmg mitigation, 120s cooldown
   - Head Graze: Silence, 30s cooldown
   - Arm's Length: KB immunity, 120s cooldown
+  - Second Wind: 500 Potency Self Cure, 120s cooldown
   - *certain actions were ommitted due to not being usuable in most situations*
 
 - Bard
