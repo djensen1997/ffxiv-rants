@@ -11,7 +11,7 @@ coherance: tank buster on tehtered target -> party stack
 https://clips.twitch.tv/ViscousAmorphousCoffeeSSSsss-ItVxT0skGSS6Zaos
 shockwave, kb centered on boss -> light party stacks centered on healers
 
-preditory avarice: puts 2 debuffs which cause an aoe (one on t/h one on dps?) and 1 which does a stack.  resolves after next mechanic. 
+preditory avarice: puts 2 debuffs which cause an aoe (one on t/h one on dps) and 1 which does a stack (on a healer).  resolves after next mechanic. 
 
 https://clips.twitch.tv/BusyCrepuscularGalagoThunBeast-YqUrKBGfLnyAiL0M
 channeling flow: emerald ex p2 kb's, take these to the edge and point toward the middle be careful not to overlap these
