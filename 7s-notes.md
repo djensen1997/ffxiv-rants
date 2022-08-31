@@ -1,3 +1,6 @@
+# p7s Notes
+
+## Baisc Cast Bars
 Spark of Life: blead aoe
 Dispersed Aero II: bleed buster aoe
 Condensed Aero II: Stack bleed buster
