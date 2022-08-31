@@ -1,19 +1,20 @@
 # p7s Notes
 
 ## Baisc Cast Bars
-Spark of Life: blead aoe
-Dispersed Aero II: bleed buster aoe
-Condensed Aero II: Stack bleed buster
-Immortal's Obal: CHanges the arena, proximity + exas
+
+- Spark of Life: blead aoe
+- Dispersed Aero II: bleed buster aoe
+- Condensed Aero II: Stack bleed buster
+- Immortal's Obal: CHanges the arena, proximity + exas
     - head to one of the 2 north safe spots next to the exas and get knocked up inside the safe spot
     - wait out the remaining exas
     - try to be as far north as possible to avoid exas comming from the other 2 platforms
-Bough of Attis: queues KB from one side of the boss toward S platform
-Multicast: the boss swiftcasts multiple mechs
-Roots of Attis: breaks all paths
+- Bough of Attis: queues KB from one side of the boss toward S platform
+- Multicast: the boss swiftcasts multiple mechs
+- Roots of Attis: breaks all paths
 
 ## Forbidden Fruit
-spawns adds on all 3 platforms
+spawns adds
 
 add sets:
 - 3 birds: line aoes through the pathways between platforms
@@ -28,55 +29,54 @@ add sets:
     - arm's length the proteon hits (birds do a kb as predicted)
 
 ### Pattern 1 - https://youtu.be/yBW_HSQWDGs?t=71
-line aoe across the midddle of all 3 paths between platforms
-split into light parties for stacks
-safe spots are on the platforms next to the line aoe
-looks like also an in/out going on here, tell is the same as megabot from copied factory
+- line aoe across the midddle of all 3 paths between platforms
+- split into light parties for stacks
+- safe spots are on the platforms next to the line aoe
+- looks like also an in/out going on here, tell is the same as megabot from copied factory
 
 ### Pattern 2
-Kb into birds
-Spreads
-2 ppl to each of the 4 north platforms, 4 on the S platform
-spreads go off as birds go off
+- Kb into birds
+- Spreads
+- 2 ppl to each of the 4 north platforms, 4 on the S platform
+- spreads go off as birds go off
 
 
 ## Inviorate Bonds
-2 debuffs, Holy Bonds and Inviolate Winds
-Holy bonds is a stack and inviolate winds is a spread
-Spreads on the intercard of platform, stack in rough middle
-Look at the roman numeral for the debuff to tell you which order you are doing the mechanics in
-(Looks like tank/healer and dps groups, i.e. tank/healer gets stack 1 and dps gets spread 1 or vice versa)
+- 2 debuffs, Holy Bonds and Inviolate Winds
+- Holy bonds is a stack and inviolate winds is a spread
+- Spreads on the intercard of platform, stack in rough middle
+- Look at the roman numeral for the debuff to tell you which order you are doing the mechanics in
+- (Looks like tank/healer and dps groups, i.e. tank/healer gets stack 1 and dps gets spread 1 or vice versa)
 
 - Handle the first set of mechs on the S platform
 - After first set of mechs, move N, and adjust to the safe side which does not have the KB
 - Handle 2nd set of mechs on that safe platform
 
 ## Roots 1
-Split into light parties on 2 of the 3 platforms
-Take stack on platform
-Wait until new path forms
-Dodge Beasties on new paths
+- Split into light parties on 2 of the 3 platforms
+- Take stack on platform
+- Wait until new path forms
+- Dodge Beasties on new paths
 
 ## Multicast
 
 ### Pattern 1
-KB -> Spreads
-pre-position for spreads and arm's lenght the kb
+- KB -> Spreads
+- pre-position for spreads and arm's lenght the kb
 
 ### Pattern 2
-KB -> Stacks with exacs
-get kb with your light party into a safe spot from exas
+- KB -> Stacks with exacs
+- get kb with your light party into a safe spot from exas
 
 
 ## Light of life
-Spread stacks from inviorate bonds
-birds to cleave paths
-egg which defines non bird platform
-after each set of mechs, leaves a delayed donut
-How to drop spreads: https://youtu.be/yBW_HSQWDGs?t=436
-Medium AOE after each mechanic, make sure to group mid between mechs for da eels
-
-Spreads will alternate platforms, stakcs will always go to the same plaform, as in, if you have stack II, you go to the stack platform, if you have spread II, you go to the odd egg platform
+- Spread stacks from inviorate bonds
+- birds to cleave paths
+- egg which defines non bird platform
+- after each set of mechs, leaves a delayed donut
+- How to drop spreads: https://youtu.be/yBW_HSQWDGs?t=436
+- Medium AOE after each mechanic, make sure to group mid between mechs for da eels
+- Spreads will alternate platforms, stakcs will always go to the same plaform, as in, if you have stack II, you go to the stack platform, if you have spread II, you go to the odd egg platform
 
 ## Harvest Roulette
 
